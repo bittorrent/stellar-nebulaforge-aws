@@ -159,7 +159,7 @@ Mappings:
       CatchupRecent: '8640'
       LogFilePath: ''
     Test:
-      NetworkPassphrase: 'Test SDF Network ; September 2015'
+      NetworkPassphrase: 'Chris Test Network ; July 2018'
       KnownPeers: 'core-testnet1.stellar.org,core-testnet2.stellar.org,core-testnet3.stellar.org'
       UnsafeQuorum: 'true'
       FailureSafety: '1'
